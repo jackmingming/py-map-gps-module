@@ -1,0 +1,1064 @@
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.1",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.46",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395", // 37.78549 NMEA format is ddmm.mmmm (N)
+    "alt": "69.1",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.1",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.1",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.1",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053744.00, 3747.14395, N, 12227.64982, W, 1, 06, 1.42, 69.0, M, -29.8, M, , * 49
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053744.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64982",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.0",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053745.00, 3747.14394, N, 12227.64976, W, 1, 06, 1.42, 69.1, M, -29.8, M, , * 43
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053745.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14394",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64976",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.1",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053746.00, 3747.14396, N, 12227.64970, W, 1, 06, 1.42, 69.2, M, -29.8, M, , * 47
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053746.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14396",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64970",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.2",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}
+Original GPS Data: $GNGGA, 053747.00, 3747.14395, N, 12227.64964, W, 1, 06, 1.42, 69.4, M, -29.8, M, , * 46
+
+{
+    "galt": "-29.8",
+    "DPGS_updt": "",
+    "lon": "12227.64964",
+    "strType": "$GNGGA",
+    "lat": "3747.14395",
+    "alt": "69.4",
+    "fixTime": "053747.00",
+    "lonDir": "W",
+    "numSat": "06",
+    "fixQual": "1",
+    "altUnit": "M",
+    "galtUnit": "M",
+    "horDil": "1.42",
+    "latDir": "N",
+    "DPGS_ID": ""
+}

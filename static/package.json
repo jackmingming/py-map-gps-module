@@ -1,0 +1,14 @@
+{
+  "name": "fox",
+  "version": "0.0.1",
+  "description": "display map",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fox"
+  ],
+  "author": "Ziming Zhu",
+  "license": "ISC"
+}

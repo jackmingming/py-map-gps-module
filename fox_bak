@@ -1,0 +1,300 @@
+from PyQt4 import QtCore, QtGui, QtWebKit, QtNetwork
+from gps import gps
+import functools
+
+class MainWindow(QtGui.QWidget):
+    def __init__(self):
+        super(MainWindow, self).__init__()
+        self.setupUI()
+        self.show()
+        self.raise_()
+        # self.GPS_message = gps('/dev/cu.usbmodem1411', 9600)
+
+    def setupUI(self):
+        #self.setFixedSize(800, 500)
+
+        vbox = QtGui.QVBoxLayout()
+        hbox = QtGui.QHBoxLayout()
+        vbox.addStretch(1)
+
+        self.setLayout(vbox)
+
+        label = self.label = QtGui.QLabel()
+        sp = QtGui.QSizePolicy()
+        sp.setVerticalStretch(0)
+        label.setSizePolicy(sp)
+        vbox.addWidget(label)
+
+        view = self.view = QtWebKit.QWebView()
+        
+        cache = QtNetwork.QNetworkDiskCache()
+        cache.setCacheDirectory("cache")
+        view.page().networkAccessManager().setCache(cache)
+        view.page().networkAccessManager()
+        
+        view.page().mainFrame().addToJavaScriptWindowObject("MainWindow", self)
+        view.page().setLinkDelegationPolicy(QtWebKit.QWebPage.DelegateAllLinks)
+        view.load(QtCore.QUrl('map.html'))
+        view.loadFinished.connect(self.onLoadFinished)
+        view.linkClicked.connect(QtGui.QDesktopServices.openUrl)
+        
+        vbox.addWidget(view)
+        vbox.addLayout(hbox)
+
+        center_button = QtGui.QPushButton('Back To Current Pos')
+        button2 = QtGui.QPushButton('Center')
+        panToSF = functools.partial(self.panMap, -122.46097, 37.78549)
+        center_button.clicked.connect(panToSF)
+        hbox.addWidget(center_button)
+        hbox.addWidget(button2)
+
+    def onLoadFinished(self):
+        with open('map.js', 'r') as f:
+            frame = self.view.page().mainFrame()
+            frame.evaluateJavaScript(f.read())
+
+    @QtCore.pyqtSlot(float, float)
+    def onMapMove(self, lat, lng):
+        self.label.setText('Lng: {:.5f}, Lat: {:.5f}'.format(lng, lat))
+
+    def panMap(self, lng, lat):
+        frame = self.view.page().mainFrame()
+        frame.evaluateJavaScript('map.panTo(L.latLng({}, {}));'.format(lat, lng))
+
+    def setInitPosition(self, lng, lat, zoom):
+        frame = self.view.page().mainFrame() 
+
+if __name__ == '__main__':
+    app = QtGui.QApplication([])
+    w = MainWindow()
+    app.exec_()
+
+
+
+    def set_screenSize(self):
+        self.setWindowState(QtCore.Qt.WindowMaximized)
+        # self.showFullScreen()  
+
+
+
+==================================================================
+
+from PyQt4 import QtCore, QtGui, QtWebKit, QtNetwork
+from gps import gps
+import functools
+
+class fox(QtGui.QWidget):
+    def __init__(self):
+        super(fox, self).__init__()
+        self.setupUI()
+        self.show()
+        self.raise_()
+        # self.GPS_message = gps('/dev/cu.usbmodem1411', 9600)
+
+    def setupUI(self):
+
+        self.set_screenSize()
+
+        vbox = QtGui.QVBoxLayout()
+        hbox = QtGui.QHBoxLayout()
+
+        self.setLayout(vbox)
+
+        view = self.view = QtWebKit.QWebView()
+        cache = QtNetwork.QNetworkDiskCache()
+        cache.setCacheDirectory("cache")
+        view.page().networkAccessManager().setCache(cache)
+        view.page().networkAccessManager()
+        
+        view.page().mainFrame().addToJavaScriptWindowObject("fox", self)
+        view.page().setLinkDelegationPolicy(QtWebKit.QWebPage.DelegateAllLinks)
+        view.load(QtCore.QUrl('map.html'))
+        view.loadFinished.connect(self.onLoadFinished)
+        view.linkClicked.connect(QtGui.QDesktopServices.openUrl)
+        
+        vbox.addWidget(view)
+        vbox.setContentsMargins(0,0,0,0)
+        vbox.addLayout(hbox)
+
+        center_button = QtGui.QPushButton('Back To Current Pos')
+        button2 = QtGui.QPushButton('Center')
+        panToSF = functools.partial(self.panMap, -122.46097, 37.78549)
+        center_button.clicked.connect(panToSF)
+        hbox.addWidget(center_button)
+        hbox.addWidget(button2)
+
+    def onLoadFinished(self):
+        with open('map.js', 'r') as f:
+            frame = self.view.page().mainFrame()
+            frame.evaluateJavaScript(f.read())
+
+    def panMap(self, lng, lat):
+        frame = self.view.page().mainFrame()
+        frame.evaluateJavaScript('map.panTo(L.latLng({}, {}));'.format(lat, lng))
+
+    def setInitPosition(self, lng, lat, zoom):
+        frame = self.view.page().mainFrame()
+
+    def set_screenSize(self):
+        self.setWindowState(QtCore.Qt.WindowMaximized)
+        # self.showFullScreen()  
+
+if __name__ == '__main__':
+    app = QtGui.QApplication([])
+    _fox = fox()
+    app.exec_()
+
+
+
+
+
+
+
+
+from PyQt4 import QtCore, QtGui, QtWebKit, QtNetwork
+from gps import gps
+import functools
+from threading import Thread
+import time
+
+class fox(QtGui.QWidget):
+    def __init__(self):
+        super(fox, self).__init__()
+        self.setupUI()
+        self.show()
+        self.raise_()
+        # self.get_gpsData()
+
+    def setupUI(self):
+        self.setWindowState(QtCore.Qt.WindowMaximized)
+        self.set_appIcon()
+        self.setWindowTitle('Fox')
+
+        self.vbox = QtGui.QVBoxLayout()
+        self.hbox = QtGui.QHBoxLayout()
+
+        self.setLayout(self.vbox)
+
+        view = self.view = QtWebKit.QWebView()
+        
+        cache = QtNetwork.QNetworkDiskCache()
+        cache.setCacheDirectory("cache")
+        view.page().networkAccessManager().setCache(cache)
+        view.page().networkAccessManager()
+        
+        view.page().mainFrame().addToJavaScriptWindowObject("MainWindow", self)
+        view.page().setLinkDelegationPolicy(QtWebKit.QWebPage.DelegateAllLinks)
+        view.load(QtCore.QUrl('map.html'))
+        view.loadFinished.connect(self.onLoadFinished)
+        view.linkClicked.connect(QtGui.QDesktopServices.openUrl)
+        
+        self.vbox.addWidget(view)
+        self.vbox.setContentsMargins(0,0,0,0)
+        self.vbox.addLayout(self.hbox)
+
+        self.center_button()
+
+    def onLoadFinished(self):
+        with open('map.js', 'r') as f:
+            frame = self.view.page().mainFrame()
+            frame.evaluateJavaScript(f.read())
+
+    def panMap(self, lng, lat):
+        frame = self.view.page().mainFrame()
+        frame.evaluateJavaScript('map.panTo(L.latLng({}, {}));'.format(lat, lng))
+
+    def setInitPosition(self, lng, lat, zoom):
+        frame = self.view.page().mainFrame() 
+
+    def center_button(self):
+        center_button = QtGui.QPushButton('Back To Current Pos')
+        button2 = QtGui.QPushButton('Center')
+        panToSF = functools.partial(self.panMap, -122.46097, 37.78549)
+        center_button.clicked.connect(panToSF)
+        self.hbox.addWidget(center_button)
+        self.hbox.addWidget(button2)
+
+    def set_appIcon(self):
+        app_icon = QtGui.QIcon()
+        app_icon.addFile('assets/icons/app_icons/fox_16.png', QtCore.QSize(16,16))
+        app_icon.addFile('assets/icons/app_icons/fox_24.png', QtCore.QSize(24,24))
+        app_icon.addFile('assets/icons/app_icons/fox_32.png', QtCore.QSize(32,32))
+        app_icon.addFile('assets/icons/app_icons/fox_64.png', QtCore.QSize(64,64))
+        app_icon.addFile('assets/icons/app_icons/fox_128.png', QtCore.QSize(128,128))
+        app_icon.addFile('assets/icons/app_icons/fox_256.png', QtCore.QSize(256,256))
+        app_icon.addFile('assets/icons/app_icons/fox_512.png', QtCore.QSize(521,512))
+        app.setWindowIcon(app_icon)
+
+    def get_gpsData(self):
+        gps_connetion = gps('/dev/cu.usbmodem1451', 9600)
+        
+        while True:
+            gps1 = gps_connetion.init_data()
+            for i, item in enumerate(gps1):
+                if item:
+                    print 'gps data: ', item
+
+    def close_app(self):
+        sys.exit()
+
+if __name__ == '__main__':
+    app = QtGui.QApplication([])
+    w = fox()
+    app.exec_()
+
+
+
+    // var map = L.map('map');
+// map.setView([37.78549, -122.46097], 16);
+// var popup = L.popup();
+// var centerLat = map.getCenter().lat;
+// var centerLng = map.getCenter().lng;
+// var userMaker = addMarkerToMap('images/navigation_128.png', [32, 32], [37.78549, -122.46097], map);
+// var emenyMaker = addMarkerToMap('images/enemy_128.png', [28, 28], [37.78654, -122.45338], map);
+
+
+// // marker.setLatLng()
+// L.tileLayer('http://192.168.65.152/osm_tiles/{z}/{x}/{y}.png', {
+//     maxZoom: 18
+// }).addTo(map);
+
+// L.control.scale().addTo(map);
+
+// // marker.bindPopup('Lat: ' + centerLat + ' Lng: ' + centerLng).openPopup();
+
+// if (typeof MainWindow != 'undefined') {
+//     map.on('move', onMapMove);
+//     map.on('click', onMapClick);
+//     onMapMove();
+// }
+
+
+// function onMapMove() {
+//     MainWindow.onMapMove(map.getCenter().lat, map.getCenter().lng)
+// }
+
+// function onMapClick(e) {
+//     popup
+//         .setLatLng(e.latlng)
+//         .setContent("Current Pos: " + e.latlng.toString())
+//         .openOn(map);
+//     // userMaker.setLatLng(e.latlng);
+// }
+
+// // get and put maker into map
+// function addMarkerToMap(url, size, position, mapObj) {
+//     var icon = L.icon({
+//         iconUrl: url,
+//         iconSize: size,
+//     });
+
+//     var maker = L.marker(position, { icon: icon }).addTo(mapObj);
+
+//     return maker;
+// }
+
+// //get gps data
+// function getGPSData(data) {
+
+//     return data;
+// }
